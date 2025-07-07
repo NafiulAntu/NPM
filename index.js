@@ -1,4 +1,3 @@
-//var generateName = require("sillyname");
 
 // import generateName from "superheroes";
 
