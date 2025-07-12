@@ -16,7 +16,5 @@
 // //console.log(`"I am Superhero Name!  ${superheroes}.`);
 import superheroes from "superheroes";
 
-const name = superheroes.random(); // Correct usage
-console.log(name);
 
 
